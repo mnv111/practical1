@@ -1,3 +1,8 @@
 hi 
 this is my file6
 this is my revert
+<<<<<<< HEAD
+=======
+confilct1
+conflict 2  
+>>>>>>> 546b995ece60712ce348a9babb6c95bd8fce36be
